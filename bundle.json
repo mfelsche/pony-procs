@@ -1,0 +1,9 @@
+{
+  "deps": [
+    {
+      "tag": "0.5.0",
+      "type": "github",
+      "repo": "mfelsche/ponycheck"
+    }
+  ]
+}
